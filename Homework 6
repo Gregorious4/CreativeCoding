@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Me</title>
+</head>
+<body>
+    <h1>Things I like to do</h1>
+    <ul>
+        <li>
+            Hiking
+            Fishing
+            Backpacking
+            Camping
+            Gaming
+        </li>
+    </ul>
+    <br />
+    <h1>My favorite places to eat</h1>
+    <a href="https://www.facebook.com/athaiger/">A Thaiger</a>
+    That's about it I don't eat out much
+    <ol>
+        <li>
+            <a href="https://wikipedia.com">Wikipedia is pretty cool I guess</a>
+        </li>
+    </ol>
+    <a href="secondpage.html">continue-></a>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Me 2</title>
+</head>
+<body>
+    <h1>My riveting backstory</h1>
+    I was born and raised in Hamilton MT so I had an incredibly long drive to get here.
+    <br />
+    <h2>Photo I took of the sunset on the Oregon coast</h2>
+    <img src="img_e2923.jpg" width="250" height="200"/>
+    <h2>Same vacation photo my friend took</h2>
+    <img src="img_e2922.jpg" width="250" height="200"/>
+    <br />
+    <a href="homepage.html">go back</a>
+    <a href="thirdpage.html">continue</a>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Me 3</title>
+</head>
+<body>
+    <h1>Contact us</h1>
+    <form action="nextPage.html" type="POST">
+        First Name: <input type="text" id="fName"><br>
+        Last Name: <input type="text" id="lName"><br>
+        Email Address: <input type="text" id="mail"><br>
+        <button id="mySubmit" type="submit">Submit</button>
+    </form>
+    Do you accept these terms?
+    <input type="radio" name="choice" value="yes">Yes<br>
+    <input type="radio" name="choice" value="no">No<br>
+    <a href="secondpage.html">go back</a>
+</body>
+</html>
