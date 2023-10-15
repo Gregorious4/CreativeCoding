@@ -1,0 +1,17 @@
+li{
+    color:red;
+}
+h1.blueColor {
+    color: blue;
+    font-family: arial;
+    font-size: 24px;
+}
+#specificColor {
+    color: red;
+    font-family: verdana;
+    font-size: 24px;
+}
+#background {
+    background-image: url('../this-is-fine.webp');
+    background-blend-mode: luminosity;
+}
